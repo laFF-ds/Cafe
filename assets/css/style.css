@@ -81,7 +81,7 @@ body
 {
     display: flex;
     justify-content: flex-end;
-    background-image: url(../assets/images/home-hero.jpeg);
+    background-image: url(../images/home-hero.jpeg);
     background-size: cover;
     background-position: 0 50%;
     width: 100%;
@@ -147,7 +147,7 @@ body
     color: var(--secondary);
     font-family: var(--paragraph-font);
     font-size: var(--paragraph-font-size);
-    background-image: url(../assets/images/coffee-bean-mug.jpg);
+    background-image: url(../images/coffee-bean-mug.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     min-height: 300px;
@@ -204,7 +204,7 @@ body
 {
     display: flex;
     align-items: center;
-    background-image: url(../assets/images/glass-coffee.jpg);
+    background-image: url(../images/glass-coffee.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     min-height: 200px;
@@ -239,7 +239,7 @@ body
 {
     display: flex;
     align-items: center;
-    background-image: url(../assets/images/coffee-sign.jpg);
+    background-image: url(../images/coffee-sign.jpg);
     background-size: cover;
     background-position: 0 45%;
     min-height: 200px;
@@ -280,7 +280,7 @@ body
 {
     display: flex;
     align-items: center;
-    background-image: url(../assets/images/contact-us-title-hero.jpg);
+    background-image: url(../images/contact-us-title-hero.jpg);
     background-size: cover;
     min-height: 200px;
 }
