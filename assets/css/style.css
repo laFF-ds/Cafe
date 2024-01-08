@@ -81,7 +81,7 @@ body
 {
     display: flex;
     justify-content: flex-end;
-    background-image: url(/assets/images/home-hero.jpeg);
+    background-image: url(assets/images/home-hero.jpeg);
     background-size: cover;
     background-position: 0 50%;
     width: 100%;
