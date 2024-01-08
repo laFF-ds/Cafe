@@ -1,0 +1,65 @@
+{
+    "drinks":
+    [
+            {
+                "item": "House Blend",
+                "description": "Dark Roast",
+                "price": [3.99],
+                "image": "menu-house-blend.jpg",
+                "alt": "A cup of our House Blend"
+            },
+            {
+                "item": "Mocha",
+                "description": "Chocolatey Dark Roast",
+                "price": [4.99],
+                "image": "menu-mocha.jpg",
+                "alt": "A cup of our Mocha"
+            },
+            {
+                "item": "Latte",
+                "description": "Double Espresso with 10oz Steamed Milk",
+                "price": [4.50],
+                "image": "menu-latte.jpg",
+                "alt": "A cup of our Latte"
+            },
+            {
+                "item": "Cold Brew",
+                "description": "House Blend Steeped for 18 Hours",
+                "price": [4.25],
+                "image": "menu-cold-brew.jpg",
+                "alt": "A cup of our Cold Brew"
+            },
+            {
+                "item": "Iced Coffee",
+                "description": "House Blend or Mocha with Ice",
+                "priceoptions": ["House Blend:", "Mocha:"],
+                "price": [4.25, 5.25],
+                "image": "menu-iced-coffee.jpg",
+                "alt": "A cup of our Iced Coffee"  
+            }
+    ],
+    "food":
+    [
+        {
+            "item": "Chocolate Chip Cookie",
+            "description": "Cookie with large chocolate chunks",
+            "price": [2.50],
+            "image": "menu-chocolate-chip-cookies.jpg",
+            "alt": "A chocolate chip cookie"
+        },
+        {
+            "item": "Strawberry Shortcake",
+            "description": "Strawberry Shortcake with whipped cream frosting and icing",
+            "price": [3.00],
+            "image": "menu-strawberry-shortcake.jpg",
+            "alt": "A slice of strawberry shortcake"
+        },
+        {
+            "item": "Turkey Sandwich",
+            "description": "Honey Turkey with lettuce, tomato and mayo on sliced bread",
+            "price": [4.99],
+            "image": "menu-turkey-sandwich.jpg",
+            "alt": "A turkey sandwich on sliced bread"
+        }
+    ]
+}

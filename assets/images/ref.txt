@@ -1,0 +1,49 @@
+//Home page
+Photo by <a href="https://unsplash.com/@jckbck?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Dziubak</a> on <a href="https://unsplash.com/photos/brown-ceramic-teacup-XtUd5SiX464?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@mannydream?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Manny Moreno</a> on <a href="https://unsplash.com/photos/brown-and-black-ceramic-mug-on-brown-wood-log-nVAHaS1Roz8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@asthetik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mike Kenneally</a> on <a href="https://unsplash.com/photos/white-ceramic-mug-and-saucer-with-coffee-beans-on-brown-textile-tNALoIZhqVM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@alexpadurariu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alex Padurariu</a> on <a href="https://unsplash.com/photos/cookies-in-white-ceramic-bowl-7mh-czWZRsA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+//About page
+Photo by <a href="https://unsplash.com/@flaura_____?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Laura Filip</a> on <a href="https://unsplash.com/photos/yellow-coffee-neon-light-signage-2bGTISkTYXs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+https://unsplash.com/photos/three-person-holding-beverage-cups-6VhPY27jdps
+    
+//Contact page
+Photo by <a href="https://unsplash.com/@hansripa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hans Ripa</a> on <a href="https://unsplash.com/photos/coffee-bean-lot-7vb8YRXPdOQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+//Menu
+Photo by <a href="https://unsplash.com/@__matthoffman__?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matt Hoffman</a> on <a href="https://unsplash.com/photos/coffee-filled-rock-glass-on-saucer-hH2ces_8gD0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+//Menu items
+// House Blend
+Photo by <a href="https://unsplash.com/@__matthoffman__?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matt Hoffman</a> on <a href="https://unsplash.com/photos/white-ceramic-mug-fill-with-coffee-IE-gdqEg45M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+// Mocha
+Photo by <a href="https://unsplash.com/@emilyrichardsss?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Emily Richards</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-cup-of-food-on-a-table-QD4g6u1-cS4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+// Latte
+Photo by <a href="https://unsplash.com/@robbiedown?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Robbie Down</a> on <a href="https://unsplash.com/photos/white-ceramic-cup-with-saucer-on-brown-wooden-table-LI8inyHnm_A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+//Cold Brew
+Photo by <a href="https://unsplash.com/@donovan_valdivia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andrew Valdivia</a> on <a href="https://unsplash.com/photos/liquid-in-clear-plastic-cup-mMI5sdLFoHM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+//Iced Coffee
+Photo by <a href="https://unsplash.com/@mayurpixamind?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mayur</a> on <a href="https://unsplash.com/photos/clear-drinking-glass-with-ice-and-white-liquid-QxfXv6v22lA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+//Tea
+Photo by <a href="https://unsplash.com/@sixteenmilesout?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sixteen Miles Out</a> on <a href="https://unsplash.com/photos/white-mug-qQg6Lizw3NM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+//Food
+// Strawberry Shortcake
+Photo by <a href="https://unsplash.com/@takuya_n?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Takuya Nagaoka</a> on <a href="https://unsplash.com/photos/white-and-red-strawberry-cake-fENvSZUzbzU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+// Choco Chip Cookie
+Photo by <a href="https://unsplash.com/@amir_v_ali?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">amirali mirhashemian</a> on <a href="https://unsplash.com/photos/brown-cookies-on-brown-wooden-table-x6VuEH2npHw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+// Sandwich
+Photo by <a href="https://unsplash.com/@hillshirefarm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hillshire Farm</a> on <a href="https://unsplash.com/photos/burger-with-lettuce-and-tomato-U0BzBTt-5so?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
